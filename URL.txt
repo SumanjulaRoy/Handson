@@ -1,0 +1,6 @@
+http://localhost:8083/requirementOne
+http://localhost:8083/requirementTwo?specialistName=Sumit&appointmentDay=Friday&patientName=Julu
+http://localhost:8083/requirementThree?hospitalName=FirstHospital
+http://localhost:8083/requirementThree?hospitalName=SecondHospital
+http://localhost:8083/testRequirementOne
+http://localhost:8083/actuator/health
